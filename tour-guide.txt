@@ -1,0 +1,3 @@
+ cd .\key-generator\
+
+ ng serve --open
