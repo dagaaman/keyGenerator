@@ -1,3 +1,9 @@
  cd .\key-generator\
 
  ng serve --open
+
+ ng build --prod
+
+
+ //generate component
+ ng generate component xyz
